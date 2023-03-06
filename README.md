@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Pedro Dalmas, but you can also call me P3.
 - ✨ I’m currently working at IOXtream.
-- ☃️ I’m learning and working with Golang, MySQL, React, NextJs and Typescript.
+- ☃️ I’m working with Golang, MySQL, React, NextJs and Typescript.
 - 📫 How to reach me: pedrodalmas93@gmail.com
 
 <!---
